@@ -34,7 +34,7 @@ hr {
   border-radius: 10px;
 }
 .recipe-card h2 {
-  font-family: "Young Serif", sans-serif;
+  font-family: Young Serif, sans-serif;
   font-size: 22px;
   margin: 0;
   margin-bottom: 10px;
@@ -60,7 +60,7 @@ hr {
   margin: 0;
 }
 .recipe-card-info h1 {
-  font-family: "Young Serif", sans-serif;
+  font-family: Young Serif, sans-serif;
   font-size: 30px;
   font-weight: 600;
   color: hsl(40, 3%, 19%);
